@@ -15,6 +15,8 @@
 
 * Structure
 
+![](https://miro.medium.com/max/866/1*fyEAfGmdfL9RPiz5ua_HCA.png)
+
 * Paticipants
   - ApplicantionClassOne/ApplicationClassTwo:
     - Declara interface para objetos da composição
