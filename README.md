@@ -1,16 +1,16 @@
 # Padrão Template Methods
 
-*Pattern Name and Classification
+* Pattern Name and Classification
 Name: Template Methods
 Classification: Comportamental
 
-*Intent
+* Intent
 
-*Motivation
+* Motivation
 
-*Structure
+* Structure
 
-*Paticipants
+* Paticipants
 
-*Sample Code
-https://repl.it/repls/OpenStaticMass#Main.java
+* Sample Code
+(https://repl.it/repls/OpenStaticMass#Main.java)
