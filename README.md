@@ -1,8 +1,8 @@
 # Padrão Template Methods
 
 * Pattern Name and Classification
-Name: Template Methods
-Classification: Comportamental
+  - Name: Template Methods
+  - Classification: Comportamental
 
 * Intent
 
